@@ -1,0 +1,537 @@
+[
+    {
+        "id": 1,
+        "label": "Does Fliqz World offer advanced filters for content?",
+        "answer": "Yes. You can filter content by type (photos, videos, posts), creator category, popularity, and subscription tier."
+    },
+    {
+        "id": 2,
+        "label": "How do I access advanced filters?",
+        "answer": "On your dashboard or in the Discover section, click the \"Filters\" button to reveal all available filter options."
+    },
+    {
+        "id": 3,
+        "label": "Can I save my filter settings?",
+        "answer": "Yes. You can save your favorite filter combinations for quick access later."
+    },
+    {
+        "id": 4,
+        "label": "Are advanced filters available in the mobile app?",
+        "answer": "Yes. The latest version of our app includes all filtering options available on the web platform."
+    },
+    {
+        "id": 5,
+        "label": "Can I customize the type of content I see?",
+        "answer": "Yes. Use the content filters and categories on your dashboard to prioritize creators or topics you're interested in."
+    },
+    {
+        "id": 6,
+        "label": "How do I hide content I'm not interested in?",
+        "answer": "You can mute or unfollow creators anytime, and adjust your preferences in Account Settings > Content Preferences."
+    },
+    {
+        "id": 7,
+        "label": "Will Fliqz World recommend content based on my activity?",
+        "answer": "Yes. Our recommendation engine suggests new creators and content based on your subscriptions, interactions, and viewing history."
+    },
+    {
+        "id": 8,
+        "label": "Can I change my content preferences later?",
+        "answer": "Absolutely. Update your content preferences anytime from your account settings."
+    },
+    {
+        "id": 9,
+        "label": "How do I become a creator?",
+        "answer": "Sign up, verify your identity, and complete your creator profile to start sharing content."
+    },
+    {
+        "id": 10,
+        "label": "How do I maximize my earnings?",
+        "answer": "Post regularly, interact with fans, offer custom content or bundles, and promote your profile on social media."
+    },
+    {
+        "id": 11,
+        "label": "How are payouts processed?",
+        "answer": "We process payouts weekly via secure third-party providers. You can track earnings and set payout preferences in your dashboard."
+    },
+    {
+        "id": 12,
+        "label": "Are there content restrictions?",
+        "answer": "Yes. All content must comply with our Content Guidelines and local laws. Prohibited content includes hate speech, non-consensual material, and illegal content."
+    },
+    {
+        "id": 13,
+        "label": "What file types can I upload?",
+        "answer": "We support most common image, audio, and video formats including JPG, PNG, MP4, MOV, and MP3."
+    },
+    {
+        "id": 14,
+        "label": "How do I promote my page?",
+        "answer": "Use social media, offer exclusive launch discounts, and engage regularly with fans."
+    },
+    {
+        "id": 15,
+        "label": "Can I set up different fan tiers?",
+        "answer": "Yes — offer multiple tiers with varying perks and prices."
+    },
+    {
+        "id": 16,
+        "label": "How do I handle disputes with fans?",
+        "answer": "Contact our support team for mediation and resolution assistance."
+    },
+    {
+        "id": 17,
+        "label": "Do I pay fees on my earnings?",
+        "answer": "Yes — platform and processing fees apply. See Fees & Payouts."
+    },
+    {
+        "id": 18,
+        "label": "How do I report stolen or reposted content?",
+        "answer": "Use the Report function or email legal@myvualt.com."
+    },
+    {
+        "id": 19,
+        "label": "How do I start earning on Fliqz World?",
+        "answer": "Sign up as a creator, complete identity verification, set your pricing, and start posting content."
+    },
+    {
+        "id": 20,
+        "label": "What kind of content can I post?",
+        "answer": "Images, videos, audio, and text posts — as long as it complies with our Content Guidelines."
+    },
+    {
+        "id": 21,
+        "label": "How are payouts handled?",
+        "answer": "Payouts are processed weekly to your chosen payment method, subject to applicable fees."
+    },
+    {
+        "id": 22,
+        "label": "What devices are supported by Fliqz World?",
+        "answer": "Fliqz World works on most modern web browsers (Chrome, Safari, Firefox, Edge) on desktops, laptops, and mobile devices."
+    },
+    {
+        "id": 23,
+        "label": "Is there a mobile app?",
+        "answer": "Yes, we offer apps for both iOS and Android devices. You can download them from the App Store and Google Play Store."
+    },
+    {
+        "id": 24,
+        "label": "Does Fliqz World work on tablets?",
+        "answer": "Yes, our platform and mobile app are optimized for use on most tablets."
+    },
+    {
+        "id": 25,
+        "label": "What browser works best with Fliqz World?",
+        "answer": "We recommend the latest versions of Chrome, Safari, or Firefox for the best experience."
+    },
+    {
+        "id": 26,
+        "label": "Are there any operating system requirements?",
+        "answer": "We recommend using devices with updated operating systems (iOS 13+, Android 9+, Windows 10+, macOS Mojave+)."
+    },
+    {
+        "id": 27,
+        "label": "How do I cancel my subscription?",
+        "answer": "Go to Account Settings > Subscriptions and click \"Cancel Subscription.\" Your access will continue until the end of the billing cycle."
+    },
+    {
+        "id": 28,
+        "label": "How do I find and subscribe to creators?",
+        "answer": "Use our search and discovery tools to browse creators by category, popularity, or hashtags. Click \"Subscribe\" on any profile to unlock their exclusive content."
+    },
+    {
+        "id": 29,
+        "label": "Can I request custom content?",
+        "answer": "Some creators accept custom requests through direct messaging or special request forms on their profiles."
+    },
+    {
+        "id": 30,
+        "label": "How do I tip a creator?",
+        "answer": "Click the \"Tip\" button on a creator's post or profile and choose the amount. All tips are final and non-refundable."
+    },
+    {
+        "id": 31,
+        "label": "Is my personal information secure?",
+        "answer": "Yes. We use advanced encryption and never share your personal data without your consent."
+    },
+    {
+        "id": 32,
+        "label": "How do I find creators to follow?",
+        "answer": "Use search, browse trending categories, or check recommendations on your dashboard."
+    },
+    {
+        "id": 33,
+        "label": "Can I pause or restart my subscription?",
+        "answer": "Currently, you can cancel and resubscribe anytime. Subscription pause features are in development."
+    },
+    {
+        "id": 34,
+        "label": "How do I receive updates from creators?",
+        "answer": "Turn on email or push notifications in Settings > Notifications."
+    },
+    {
+        "id": 35,
+        "label": "What payment methods are supported?",
+        "answer": "We accept major credit/debit cards and digital wallets, depending on your country."
+    },
+    {
+        "id": 36,
+        "label": "How do I request custom content?",
+        "answer": "Message the creator directly to discuss custom requests (if they accept them)."
+    },
+    {
+        "id": 37,
+        "label": "Can I request refunds?",
+        "answer": "Subscriptions and tips are non-refundable except in cases of duplicate charges or technical errors. Contact support within 48 hours."
+    },
+    {
+        "id": 38,
+        "label": "How do I receive content updates?",
+        "answer": "Turn on email or push notifications in your account settings."
+    },
+    {
+        "id": 39,
+        "label": "How do I find creators to follow?",
+        "answer": "Use the search bar, browse featured categories, or explore recommendations on your dashboard."
+    },
+    {
+        "id": 40,
+        "label": "How do I subscribe to a creator?",
+        "answer": "Visit their profile and click \"Subscribe.\" Choose the tier you want and follow the prompts to complete your payment."
+    },
+    {
+        "id": 41,
+        "label": "Can I cancel my subscription?",
+        "answer": "Yes. Go to Account Settings > Subscriptions and click \"Cancel.\" You'll continue to have access until your current billing period ends."
+    },
+    {
+        "id": 42,
+        "label": "How do I tip a creator?",
+        "answer": "Click the \"Tip\" button on their profile or content post, choose an amount, and confirm payment."
+    },
+    {
+        "id": 43,
+        "label": "Can I request custom content?",
+        "answer": "Some creators accept custom requests. Use the message feature or check their profile description for details."
+    },
+    {
+        "id": 44,
+        "label": "How do I report inappropriate content?",
+        "answer": "Click the \"Report\" option on the post or user profile and follow the instructions."
+    },
+    {
+        "id": 45,
+        "label": "Will my subscriptions show on my credit card statement?",
+        "answer": "Charges appear discreetly, typically under a neutral billing descriptor for your privacy."
+    },
+    {
+        "id": 46,
+        "label": "How do I update my email or password?",
+        "answer": "Go to Account Settings > Profile to update your email, and use the Change Password option to update your password."
+    },
+    {
+        "id": 47,
+        "label": "What happens if my subscription payment fails?",
+        "answer": "We'll notify you and retry the charge. If the payment fails after multiple attempts, your subscription may be paused."
+    },
+    {
+        "id": 48,
+        "label": "Can I interact with other fans?",
+        "answer": "Currently, Fliqz World focuses on direct creator-fan interactions. Future updates may include community features for fans."
+    },
+    {
+        "id": 49,
+        "label": "Is there a Fliqz World mobile app?",
+        "answer": "Yes! Our mobile app is available for iOS and Android. Download it from the App Store or Google Play Store."
+    },
+    {
+        "id": 50,
+        "label": "What can I do on the mobile app?",
+        "answer": "The app allows you to browse and subscribe to creators, send tips, post and schedule content (for creators), manage subscriptions, and communicate via direct messages."
+    },
+    {
+        "id": 51,
+        "label": "Are there app-exclusive features?",
+        "answer": "We occasionally roll out new features to the app first, including push notifications, offline viewing for select content, and enhanced fan club community tools."
+    },
+    {
+        "id": 52,
+        "label": "How do I report a bug or issue on the app?",
+        "answer": "Go to Settings > Help & Support > Report a Problem, or email us at support@myvualt.com with details and screenshots if possible."
+    },
+    {
+        "id": 53,
+        "label": "Does the app use a lot of data?",
+        "answer": "Streaming high-quality videos uses more data. We recommend using Wi-Fi when possible if you have limited data plans."
+    },
+    {
+        "id": 54,
+        "label": "Is the app free?",
+        "answer": "Yes. Download and use it at no cost — but subscriptions and tips are paid."
+    },
+    {
+        "id": 55,
+        "label": "Can I schedule posts from the app?",
+        "answer": "Absolutely. Use the Post Scheduler feature in your Creator Tools."
+    },
+    {
+        "id": 56,
+        "label": "Why can't I see certain content?",
+        "answer": "Some content may be geo-restricted or require a specific subscription"
+    },
+    {
+        "id": 57,
+        "label": "How do I update the app?",
+        "answer": "Visit your device's app store and tap \"Update\" on the Fliqz World app page."
+    },
+    {
+        "id": 58,
+        "label": "How do I sign up for Fliqz World?",
+        "answer": "Click \"Sign Up\" on our homepage. Enter your email, create a password, and follow the prompts to verify your email address."
+    },
+    {
+        "id": 59,
+        "label": "Is signing up free?",
+        "answer": "Yes. Creating a fan or creator account is free. You only pay when you choose to subscribe, tip, or purchase content."
+    },
+    {
+        "id": 60,
+        "label": "How do I verify my account?",
+        "answer": "After signing up, check your email inbox for a verification link. Click the link to activate your account."
+    },
+    {
+        "id": 61,
+        "label": "What information is needed to create a creator account?",
+        "answer": "You'll need to provide basic profile information, upload a profile image, and complete identity verification to ensure platform security."
+    },
+    {
+        "id": 62,
+        "label": "Can I switch from a fan account to a creator account later?",
+        "answer": "Yes. Visit Account Settings > Become a Creator to upgrade your account and start earning."
+    },
+    {
+        "id": 63,
+        "label": "How do I turn on or off email notifications?",
+        "answer": "Go to Account Settings > Notifications and toggle the switches for the types of emails you wish to receive."
+    },
+    {
+        "id": 64,
+        "label": "How do I enable push notifications on mobile?",
+        "answer": "In the Fliqz World app, go to Settings > Notifications and allow push notifications. Also ensure your device settings allow notifications from the app."
+    },
+    {
+        "id": 65,
+        "label": "Can I choose which notifications I get?",
+        "answer": "Yes. You can choose to receive updates about new posts, messages, billing reminders, or promotional offers individually."
+    },
+    {
+        "id": 66,
+        "label": "Why am I not receiving notifications?",
+        "answer": "Check your spam or junk folder for emails, ensure push notifications are enabled in your device settings, and confirm your email address is verified in your account."
+    },
+    {
+        "id": 67,
+        "label": "What payment methods are accepted?",
+        "answer": "We accept major credit/debit cards and select digital wallets depending on your country."
+    },
+    {
+        "id": 68,
+        "label": "Can I get a refund?",
+        "answer": "Subscriptions and tips are non-refundable except in cases of technical error or duplicate charges. Contact support@myvualt.com within 48 hours for help."
+    },
+    {
+        "id": 69,
+        "label": "Why did my payment fail?",
+        "answer": "Check your card details, available balance, or contact your bank. You can also try another payment method."
+    },
+    {
+        "id": 70,
+        "label": "How often are creator payouts processed?",
+        "answer": "Weekly, once your earnings reach the minimum threshold."
+    },
+    {
+        "id": 71,
+        "label": "Is my data safe?",
+        "answer": "Yes. We use encryption, secure payment processing, and comply with GDPR/CCPA."
+    },
+    {
+        "id": 72,
+        "label": "What payment methods can I use?",
+        "answer": "We accept major credit and debit cards, and in some regions, select digital wallets."
+    },
+    {
+        "id": 73,
+        "label": "When do creators get paid?",
+        "answer": "Payouts are processed weekly once your account balance reaches the minimum payout threshold."
+    },
+    {
+        "id": 74,
+        "label": "Are there fees on transactions?",
+        "answer": "Yes. Platform and payment processing fees apply. You can view detailed fee structures in your Creator Dashboard."
+    },
+    {
+        "id": 75,
+        "label": "Why was my payment declined?",
+        "answer": "Check that your card details are correct, funds are available, and your bank isn't blocking the charge. You can also try another payment method."
+    },
+    {
+        "id": 76,
+        "label": "Can I get a refund on a subscription or tip?",
+        "answer": "Generally, all sales are final. Refunds are only issued in cases of duplicate charges or technical errors."
+    },
+    {
+        "id": 77,
+        "label": "How do I update my payment information?",
+        "answer": "Go to Account Settings > Billing and update your payment method."
+    },
+    {
+        "id": 78,
+        "label": "Where can I find the Terms of Service and Privacy Policy?",
+        "answer": "Links are available in the site footer and here: Terms | Privacy."
+    },
+    {
+        "id": 79,
+        "label": "How do I delete my account?",
+        "answer": "Contact us at support@myvualt.com or use the \"Delete Account\" option in your settings."
+    },
+    {
+        "id": 80,
+        "label": "Can other users see my activity on Fliqz World?",
+        "answer": "No. Your subscriptions, tips, and purchases are private and not visible to other fans or creators."
+    },
+    {
+        "id": 81,
+        "label": "How do I control what information is visible on my profile?",
+        "answer": "Go to Account Settings > Privacy to adjust which details (like profile picture or bio) are visible to creators."
+    },
+    {
+        "id": 82,
+        "label": "Can I use Fliqz World anonymously?",
+        "answer": "While your email is required for account creation, you can choose a display name and profile image that does not reveal your real identity."
+    },
+    {
+        "id": 83,
+        "label": "How do I request deletion of my data?",
+        "answer": "Contact support@myvualt.com or use the Delete Account feature in Settings. We will process your request in compliance with applicable data privacy laws."
+    },
+    {
+        "id": 84,
+        "label": "Are subscriptions refundable?",
+        "answer": "Generally, subscriptions are non-refundable as you gain immediate access to premium content upon purchase."
+    },
+    {
+        "id": 85,
+        "label": "Can I get a refund for a tip I sent?",
+        "answer": "Tips are non-refundable, as they are considered direct support to creators."
+    },
+    {
+        "id": 86,
+        "label": "What if I was charged twice by mistake?",
+        "answer": "In cases of duplicate charges or technical errors, contact support@myvualt.com within 48 hours for assistance."
+    },
+    {
+        "id": 87,
+        "label": "What happens if a creator deletes their account before my subscription ends?",
+        "answer": "You will lose access to their content. Depending on circumstances, partial refunds may be issued on a case-by-case basis."
+    },
+    {
+        "id": 88,
+        "label": "How long does it take to process a refund request?",
+        "answer": "Approved refunds typically take 5-10 business days to appear on your statement."
+    },
+    {
+        "id": 89,
+        "label": "How do I report abusive content or users?",
+        "answer": "Click the “Report” option on any post or user profile. Our moderation team will investigate promptly."
+    },
+    {
+        "id": 90,
+        "label": "How do you protect my data?",
+        "answer": "We comply with GDPR, CCPA, and other data privacy laws. You can request account deletion or data export anytime."
+    },
+    {
+        "id": 91,
+        "label": "How does Fliqz World protect my personal data?",
+        "answer": "We use advanced encryption and secure servers to protect your data. We comply with GDPR, CCPA, and other data privacy laws."
+    },
+    {
+        "id": 92,
+        "label": "Can I block another user?",
+        "answer": "Yes. Go to the user's profile, click the menu icon, and select \"Block User.\""
+    },
+    {
+        "id": 93,
+        "label": "What should I do if I receive abusive messages?",
+        "answer": "Use the \"Report\" feature on messages or profiles. Our moderation team reviews reports and takes appropriate action."
+    },
+    {
+        "id": 94,
+        "label": "Is my payment information safe?",
+        "answer": "Yes. Payments are processed through secure third-party providers. We never store your full payment details on our servers."
+    },
+    {
+        "id": 95,
+        "label": "How do you handle harassment or hate speech?",
+        "answer": "We have strict policies against harassment, hate speech, and abusive content. Violations can lead to warnings, suspensions, or permanent bans."
+    },
+    {
+        "id": 96,
+        "label": "What happens if my account is compromised?",
+        "answer": "Reset your password immediately and contact our support team. We'll help you secure your account."
+    },
+    {
+        "id": 97,
+        "label": "I can't upload a video — what should I do?",
+        "answer": "Check your file type, size limits, and internet connection. If the issue persists, contact support with details."
+    },
+    {
+        "id": 98,
+        "label": "I'm not receiving emails from Fliqz World.",
+        "answer": "Check your spam/junk folder and ensure you've added our email to your safe sender list."
+    },
+    {
+        "id": 99,
+        "label": "Videos aren't playing properly.",
+        "answer": "Try clearing cache, updating the app/browser, or switching to Wi-Fi."
+    },
+    {
+        "id": 100,
+        "label": "Having issues with uploads?",
+        "answer": "Check file format, internet connection, and size limits. Contact support if needed."
+    },
+    {
+        "id": 101,
+        "label": "I'm having trouble uploading a video. What should I do?",
+        "answer": "Ensure your file is in a supported format (MP4, MOV) and under the size limit. Check your internet connection. If the problem continues, contact support with the error message."
+    },
+    {
+        "id": 102,
+        "label": "Why isn't my payment going through?",
+        "answer": "Verify your card details, check for sufficient funds, or try a different card. Contact your bank to ensure they aren't blocking the transaction."
+    },
+    {
+        "id": 103,
+        "label": "I'm not getting email notifications.",
+        "answer": "Check your spam/junk folder. Add notifications@myvualt.com to your safe sender list. Also, verify notification preferences in your account settings."
+    },
+    {
+        "id": 104,
+        "label": "The app or website isn't loading properly.",
+        "answer": "Try clearing your browser/app cache, update to the latest version, or switch to a different browser/device."
+    },
+    {
+        "id": 105,
+        "label": "I forgot my password. How do I reset it?",
+        "answer": "Click \"Forgot Password\" on the sign-in page and follow the instructions in the email sent to you."
+    },
+    {
+        "id": 107,
+        "label": "Why is my content stuck in processing?",
+        "answer": "High traffic or large file sizes can cause delays. If processing takes more than 30 minutes, contact support."
+    },
+    {
+        "id": 108,
+        "label": "How do I report a bug?",
+        "answer": "Email support@myvualt.com with details, including device type, operating system, screenshots, and steps to reproduce the issue."
+    }
+]
