@@ -1,42 +1,37 @@
 import json
-import chromadb
-from chromadb.utils import embedding_functions
 import requests
 
-embedder = embedding_functions.SentenceTransformerEmbeddingFunction(
-    model_name="all-MiniLM-L6-v2"
-)
-
-client = chromadb.PersistentClient(path="./chroma_faq")
-collection = client.get_or_create_collection(
-    name="creator_faq",
-    embedding_function=embedder
-)
-
+# Load FAQ data
 with open("faq_data.json", "r", encoding="utf-8") as f:
     faq_data = json.load(f)
 
-if collection.count() == 0:
-    ids = [str(item["id"]) for item in faq_data]
-    docs = [f"Q: {item['label']}\nA: {item['answer']}" for item in faq_data]
-    metas = [{"category": "faq", "type": "creator"} for _ in faq_data]
-    collection.add(ids=ids, documents=docs, metadatas=metas)
-    print(f"✅ {len(faq_data)} FAQ entries added to ChromaDB.")
-else:
-    print(f"ℹ️ ChromaDB already contains {collection.count()} entries.")
+def search_faq(question, top_n=3):
+    """Keyword-based search in the FAQ JSON."""
+    question_lower = question.lower()
+    matches = []
 
+    for item in faq_data:
+        label = item.get("label", "").lower()
+        answer = item.get("answer", "")
+        score = 0
+        for word in question_lower.split():
+            if word in label:
+                score += 1
+        if score > 0:
+            matches.append((score, f"Q: {item['label']}\nA: {answer}"))
 
+    matches.sort(reverse=True)
+    return [doc for _, doc in matches[:top_n]]
 
 def ask_gpt(question, model="llama3.2:3b"):
-    results = collection.query(query_texts=[question], n_results=3)
-    docs = results.get("documents", [[]])[0]
-    if not docs:
-        return "Sorry, I couldn’t find any relevant info."
+    context_docs = search_faq(question)
+    if not context_docs:
+        return "⚠️ I can only answer questions related to Fliqz World. Please ask something about the platform."
 
-    context = "\n".join(docs)
-    
+    context = "\n".join(context_docs)
+
     prompt = f"""
-You are a highly intelligent support assistant for Fliqz World platform.
+You are a support assistant for Fliqz World platform.
 Use ONLY the context below to answer the question clearly and naturally.
 
 Context:
@@ -55,26 +50,17 @@ Provide a concise, clear, and helpful answer.
             timeout=120
         )
         lines = res.text.strip().split("\n")
-        full_answer = ""
-        import json
+        answer = ""
         for line in lines:
             try:
                 obj = json.loads(line)
-                text = obj.get("response", "")
-                full_answer += text
+                answer += obj.get("response", "")
             except Exception:
                 continue
 
-        full_answer = full_answer.strip()
-        if not full_answer:
-            return "⚠️ AI returned empty response."
-        return full_answer
-
+        return answer.strip() if answer else "⚠️ AI returned empty response."
     except Exception as e:
         return f"⚠️ AI error: {e}"
-
-
-
 
 if __name__ == "__main__":
     print("🤖 GPT FAQ Chatbot Ready! Type 'exit' to quit.\n")
