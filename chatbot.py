@@ -1,6 +1,18 @@
 import json
 import requests
 from difflib import SequenceMatcher
+from state import ticket_state
+
+TICKET_CATEGORIES = [
+    "Payment Issue",
+    "Order Not Delivered",
+    "Account Access Issue",
+    "Product Quality Issue",
+    "Refund Request",
+    "Other"
+]
+
+
 # Load FAQ data
 with open("faq_data.json", "r", encoding="utf-8") as f:
     faq_data = json.load(f)
@@ -46,7 +58,43 @@ def search_faq(question, top_n=3):
     return [doc for _, doc in matches[:top_n]]
 
 
-def ask_gpt(question, model="llama3.2:3b"):
+def ask_gpt(question, model="llama3"):
+
+    ts = ticket_state  # shortcut
+
+    # --- Ticket creation trigger ---
+    if question.lower().strip() == "generate ticket":
+        ts["is_ticket_generated"] = 0
+        ts["ticket_step"] = "category"
+        ts["data"] = {"category": None, "subject": None, "description": None}
+
+        categories_list = "\n".join([f"- {c}" for c in TICKET_CATEGORIES])
+        return f"Please select a category:\n{categories_list}"
+    
+       # ---- Category selection ----
+    if ts["ticket_step"] == "category":
+        if question in TICKET_CATEGORIES:
+            ts["data"]["category"] = question
+            ts["ticket_step"] = "subject"
+            return "Great! Please enter a short subject for your issue (example: 'Refund not received')."
+        else:
+            return "Please choose a valid category from the list."
+
+    # ---- Subject step ----
+    if ts["ticket_step"] == "subject":
+        ts["data"]["subject"] = question
+        ts["ticket_step"] = "description"
+        return "Please describe your problem in detail."
+
+    # ---- Description step ----
+    if ts["ticket_step"] == "description":
+        ts["data"]["description"] = question
+        ts["ticket_step"] = None
+        ts["is_ticket_generated"] = 1
+        return "Your ticket has been created successfully! 🎟️\n\nAny more queries?"
+
+
+
     # Handle greetings
     if is_greeting(question):
         return "👋 Hello! I'm the Fliqz World support assistant. How can I help you today?"

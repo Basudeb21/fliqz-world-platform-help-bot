@@ -1,7 +1,7 @@
 from fastapi import FastAPI
 from fastapi.responses import JSONResponse
 import redis
-from chatbot import ask_gpt  # your existing ask_gpt function
+from chatbot_og import ask_gpt  # your existing ask_gpt function
 
 app = FastAPI()
 r = redis.Redis(host="localhost", port=6379, db=0, decode_responses=True)
