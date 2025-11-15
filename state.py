@@ -1,11 +1,4 @@
-# state.py (shared global memory)
+# state.py
 
-ticket_state = {
-    "is_ticket_generated": 0,
-    "ticket_step": None,
-    "data": {
-        "category": None,
-        "subject": None,
-        "description": None
-    }
-}
+# Store ticket states per user-token
+user_states = {}
