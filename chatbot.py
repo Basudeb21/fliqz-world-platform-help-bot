@@ -58,7 +58,7 @@ def search_faq(question, top_n=3):
     return [doc for _, doc in matches[:top_n]]
 
 
-def ask_gpt(question,user_token, model="llama3"):
+def ask_gpt(question,user_token, model="llama3.2:3b"):
 
     # Initialize per-user ticket state
     if user_token not in user_states:
