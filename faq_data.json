@@ -2,536 +2,979 @@
     {
         "id": 1,
         "label": "Does Fliqz World offer advanced filters for content?",
-        "answer": "Yes. You can filter content by type (photos, videos, posts), creator category, popularity, and subscription tier."
+        "answer": "Yes. You can filter content by type (photos, videos, posts), creator category, popularity, and subscription tier.",
+        "url": "NULL"
     },
     {
         "id": 2,
         "label": "How do I access advanced filters?",
-        "answer": "On your dashboard or in the Discover section, click the \"Filters\" button to reveal all available filter options."
+        "answer": "On your dashboard or in the Discover section, click the \"Filters\" button to reveal all available filter options.",
+        "url": "NULL"
     },
     {
         "id": 3,
         "label": "Can I save my filter settings?",
-        "answer": "Yes. You can save your favorite filter combinations for quick access later."
+        "answer": "Yes. You can save your favorite filter combinations for quick access later.",
+        "url": "NULL"
     },
     {
         "id": 4,
         "label": "Are advanced filters available in the mobile app?",
-        "answer": "Yes. The latest version of our app includes all filtering options available on the web platform."
+        "answer": "Yes. The latest version of our app includes all filtering options available on the web platform.",
+        "url": "NULL"
     },
     {
         "id": 5,
         "label": "Can I customize the type of content I see?",
-        "answer": "Yes. Use the content filters and categories on your dashboard to prioritize creators or topics you're interested in."
+        "answer": "Yes. Use the content filters and categories on your dashboard to prioritize creators or topics you're interested in.",
+        "url": "NULL"
     },
     {
         "id": 6,
         "label": "How do I hide content I'm not interested in?",
-        "answer": "You can mute or unfollow creators anytime, and adjust your preferences in Account Settings > Content Preferences."
+        "answer": "You can mute or unfollow creators anytime, and adjust your preferences in Account Settings > Content Preferences.",
+        "url": "NULL"
     },
     {
         "id": 7,
         "label": "Will Fliqz World recommend content based on my activity?",
-        "answer": "Yes. Our recommendation engine suggests new creators and content based on your subscriptions, interactions, and viewing history."
+        "answer": "Yes. Our recommendation engine suggests new creators and content based on your subscriptions, interactions, and viewing history.",
+        "url": "NULL"
     },
     {
         "id": 8,
         "label": "Can I change my content preferences later?",
-        "answer": "Absolutely. Update your content preferences anytime from your account settings."
+        "answer": "Absolutely. Update your content preferences anytime from your account settings.",
+        "url": "NULL"
     },
     {
         "id": 9,
         "label": "How do I become a creator?",
-        "answer": "Sign up, verify your identity, and complete your creator profile to start sharing content."
+        "answer": "Sign up, verify your identity, and complete your creator profile to start sharing content.",
+        "url": "NULL"
     },
     {
         "id": 10,
         "label": "How do I maximize my earnings?",
-        "answer": "Post regularly, interact with fans, offer custom content or bundles, and promote your profile on social media."
+        "answer": "Post regularly, interact with fans, offer custom content or bundles, and promote your profile on social media.",
+        "url": "NULL"
     },
     {
         "id": 11,
         "label": "How are payouts processed?",
-        "answer": "We process payouts weekly via secure third-party providers. You can track earnings and set payout preferences in your dashboard."
+        "answer": "We process payouts weekly via secure third-party providers. You can track earnings and set payout preferences in your dashboard.",
+        "url": "NULL"
     },
     {
         "id": 12,
         "label": "Are there content restrictions?",
-        "answer": "Yes. All content must comply with our Content Guidelines and local laws. Prohibited content includes hate speech, non-consensual material, and illegal content."
+        "answer": "Yes. All content must comply with our Content Guidelines and local laws. Prohibited content includes hate speech, non-consensual material, and illegal content.",
+        "url": "NULL"
     },
     {
         "id": 13,
         "label": "What file types can I upload?",
-        "answer": "We support most common image, audio, and video formats including JPG, PNG, MP4, MOV, and MP3."
+        "answer": "We support most common image, audio, and video formats including JPG, PNG, MP4, MOV, and MP3.",
+        "url": "NULL"
     },
     {
         "id": 14,
         "label": "How do I promote my page?",
-        "answer": "Use social media, offer exclusive launch discounts, and engage regularly with fans."
+        "answer": "Use social media, offer exclusive launch discounts, and engage regularly with fans.",
+        "url": "NULL"
     },
     {
         "id": 15,
         "label": "Can I set up different fan tiers?",
-        "answer": "Yes — offer multiple tiers with varying perks and prices."
+        "answer": "Yes — offer multiple tiers with varying perks and prices.",
+        "url": "NULL"
     },
     {
         "id": 16,
         "label": "How do I handle disputes with fans?",
-        "answer": "Contact our support team for mediation and resolution assistance."
+        "answer": "Contact our support team for mediation and resolution assistance.",
+        "url": "NULL"
     },
     {
         "id": 17,
         "label": "Do I pay fees on my earnings?",
-        "answer": "Yes — platform and processing fees apply. See Fees & Payouts."
+        "answer": "Yes — platform and processing fees apply. See Fees & Payouts.",
+        "url": "NULL"
     },
     {
         "id": 18,
         "label": "How do I report stolen or reposted content?",
-        "answer": "Use the Report function or email legal@myvualt.com."
+        "answer": "Use the Report function or email legal@myvualt.com.",
+        "url": "NULL"
     },
     {
         "id": 19,
         "label": "How do I start earning on Fliqz World?",
-        "answer": "Sign up as a creator, complete identity verification, set your pricing, and start posting content."
+        "answer": "Sign up as a creator, complete identity verification, set your pricing, and start posting content.",
+        "url": "NULL"
     },
     {
         "id": 20,
         "label": "What kind of content can I post?",
-        "answer": "Images, videos, audio, and text posts — as long as it complies with our Content Guidelines."
+        "answer": "Images, videos, audio, and text posts — as long as it complies with our Content Guidelines.",
+        "url": "NULL"
     },
     {
         "id": 21,
         "label": "How are payouts handled?",
-        "answer": "Payouts are processed weekly to your chosen payment method, subject to applicable fees."
+        "answer": "Payouts are processed weekly to your chosen payment method, subject to applicable fees.",
+        "url": "NULL"
     },
     {
         "id": 22,
         "label": "What devices are supported by Fliqz World?",
-        "answer": "Fliqz World works on most modern web browsers (Chrome, Safari, Firefox, Edge) on desktops, laptops, and mobile devices."
+        "answer": "Fliqz World works on most modern web browsers (Chrome, Safari, Firefox, Edge) on desktops, laptops, and mobile devices.",
+        "url": "NULL"
     },
     {
         "id": 23,
         "label": "Is there a mobile app?",
-        "answer": "Yes, we offer apps for both iOS and Android devices. You can download them from the App Store and Google Play Store."
+        "answer": "Yes, we offer apps for both iOS and Android devices. You can download them from the App Store and Google Play Store.",
+        "url": "NULL"
     },
     {
         "id": 24,
         "label": "Does Fliqz World work on tablets?",
-        "answer": "Yes, our platform and mobile app are optimized for use on most tablets."
+        "answer": "Yes, our platform and mobile app are optimized for use on most tablets.",
+        "url": "NULL"
     },
     {
         "id": 25,
         "label": "What browser works best with Fliqz World?",
-        "answer": "We recommend the latest versions of Chrome, Safari, or Firefox for the best experience."
+        "answer": "We recommend the latest versions of Chrome, Safari, or Firefox for the best experience.",
+        "url": "NULL"
     },
     {
         "id": 26,
         "label": "Are there any operating system requirements?",
-        "answer": "We recommend using devices with updated operating systems (iOS 13+, Android 9+, Windows 10+, macOS Mojave+)."
+        "answer": "We recommend using devices with updated operating systems (iOS 13+, Android 9+, Windows 10+, macOS Mojave+).",
+        "url": "NULL"
     },
     {
         "id": 27,
         "label": "How do I cancel my subscription?",
-        "answer": "Go to Account Settings > Subscriptions and click \"Cancel Subscription.\" Your access will continue until the end of the billing cycle."
+        "answer": "Go to Account Settings > Subscriptions and click \"Cancel Subscription.\" Your access will continue until the end of the billing cycle.",
+        "url": "NULL"
     },
     {
         "id": 28,
         "label": "How do I find and subscribe to creators?",
-        "answer": "Use our search and discovery tools to browse creators by category, popularity, or hashtags. Click \"Subscribe\" on any profile to unlock their exclusive content."
+        "answer": "Use our search and discovery tools to browse creators by category, popularity, or hashtags. Click \"Subscribe\" on any profile to unlock their exclusive content.",
+        "url": "NULL"
     },
     {
         "id": 29,
         "label": "Can I request custom content?",
-        "answer": "Some creators accept custom requests through direct messaging or special request forms on their profiles."
+        "answer": "Some creators accept custom requests through direct messaging or special request forms on their profiles.",
+        "url": "NULL"
     },
     {
         "id": 30,
         "label": "How do I tip a creator?",
-        "answer": "Click the \"Tip\" button on a creator's post or profile and choose the amount. All tips are final and non-refundable."
+        "answer": "Click the \"Tip\" button on a creator's post or profile and choose the amount. All tips are final and non-refundable.",
+        "url": "NULL"
     },
     {
         "id": 31,
         "label": "Is my personal information secure?",
-        "answer": "Yes. We use advanced encryption and never share your personal data without your consent."
+        "answer": "Yes. We use advanced encryption and never share your personal data without your consent.",
+        "url": "NULL"
     },
     {
         "id": 32,
         "label": "How do I find creators to follow?",
-        "answer": "Use search, browse trending categories, or check recommendations on your dashboard."
+        "answer": "Use search, browse trending categories, or check recommendations on your dashboard.",
+        "url": "NULL"
     },
     {
         "id": 33,
         "label": "Can I pause or restart my subscription?",
-        "answer": "Currently, you can cancel and resubscribe anytime. Subscription pause features are in development."
+        "answer": "Currently, you can cancel and resubscribe anytime. Subscription pause features are in development.",
+        "url": "NULL"
     },
     {
         "id": 34,
         "label": "How do I receive updates from creators?",
-        "answer": "Turn on email or push notifications in Settings > Notifications."
+        "answer": "Turn on email or push notifications in Settings > Notifications.",
+        "url": "NULL"
     },
     {
         "id": 35,
         "label": "What payment methods are supported?",
-        "answer": "We accept major credit/debit cards and digital wallets, depending on your country."
+        "answer": "We accept major credit/debit cards and digital wallets, depending on your country.",
+        "url": "NULL"
     },
     {
         "id": 36,
         "label": "How do I request custom content?",
-        "answer": "Message the creator directly to discuss custom requests (if they accept them)."
+        "answer": "Message the creator directly to discuss custom requests (if they accept them).",
+        "url": "NULL"
     },
     {
         "id": 37,
         "label": "Can I request refunds?",
-        "answer": "Subscriptions and tips are non-refundable except in cases of duplicate charges or technical errors. Contact support within 48 hours."
+        "answer": "Subscriptions and tips are non-refundable except in cases of duplicate charges or technical errors. Contact support within 48 hours.",
+        "url": "NULL"
     },
     {
         "id": 38,
         "label": "How do I receive content updates?",
-        "answer": "Turn on email or push notifications in your account settings."
+        "answer": "Turn on email or push notifications in your account settings.",
+        "url": "NULL"
     },
     {
         "id": 39,
         "label": "How do I find creators to follow?",
-        "answer": "Use the search bar, browse featured categories, or explore recommendations on your dashboard."
+        "answer": "Use the search bar, browse featured categories, or explore recommendations on your dashboard.",
+        "url": "NULL"
     },
     {
         "id": 40,
         "label": "How do I subscribe to a creator?",
-        "answer": "Visit their profile and click \"Subscribe.\" Choose the tier you want and follow the prompts to complete your payment."
+        "answer": "Visit their profile and click \"Subscribe.\" Choose the tier you want and follow the prompts to complete your payment.",
+        "url": "NULL"
     },
     {
         "id": 41,
         "label": "Can I cancel my subscription?",
-        "answer": "Yes. Go to Account Settings > Subscriptions and click \"Cancel.\" You'll continue to have access until your current billing period ends."
+        "answer": "Yes. Go to Account Settings > Subscriptions and click \"Cancel.\" You'll continue to have access until your current billing period ends.",
+        "url": "NULL"
     },
     {
         "id": 42,
         "label": "How do I tip a creator?",
-        "answer": "Click the \"Tip\" button on their profile or content post, choose an amount, and confirm payment."
+        "answer": "Click the \"Tip\" button on their profile or content post, choose an amount, and confirm payment.",
+        "url": "NULL"
     },
     {
         "id": 43,
         "label": "Can I request custom content?",
-        "answer": "Some creators accept custom requests. Use the message feature or check their profile description for details."
+        "answer": "Some creators accept custom requests. Use the message feature or check their profile description for details.",
+        "url": "NULL"
     },
     {
         "id": 44,
         "label": "How do I report inappropriate content?",
-        "answer": "Click the \"Report\" option on the post or user profile and follow the instructions."
+        "answer": "Click the \"Report\" option on the post or user profile and follow the instructions.",
+        "url": "NULL"
     },
     {
         "id": 45,
         "label": "Will my subscriptions show on my credit card statement?",
-        "answer": "Charges appear discreetly, typically under a neutral billing descriptor for your privacy."
+        "answer": "Charges appear discreetly, typically under a neutral billing descriptor for your privacy.",
+        "url": "NULL"
     },
     {
         "id": 46,
         "label": "How do I update my email or password?",
-        "answer": "Go to Account Settings > Profile to update your email, and use the Change Password option to update your password."
+        "answer": "Go to Account Settings > Profile to update your email, and use the Change Password option to update your password.",
+        "url": "NULL"
     },
     {
         "id": 47,
         "label": "What happens if my subscription payment fails?",
-        "answer": "We'll notify you and retry the charge. If the payment fails after multiple attempts, your subscription may be paused."
+        "answer": "We'll notify you and retry the charge. If the payment fails after multiple attempts, your subscription may be paused.",
+        "url": "NULL"
     },
     {
         "id": 48,
         "label": "Can I interact with other fans?",
-        "answer": "Currently, Fliqz World focuses on direct creator-fan interactions. Future updates may include community features for fans."
+        "answer": "Currently, Fliqz World focuses on direct creator-fan interactions. Future updates may include community features for fans.",
+        "url": "NULL"
     },
     {
         "id": 49,
         "label": "Is there a Fliqz World mobile app?",
-        "answer": "Yes! Our mobile app is available for iOS and Android. Download it from the App Store or Google Play Store."
+        "answer": "Yes! Our mobile app is available for iOS and Android. Download it from the App Store or Google Play Store.",
+        "url": "NULL"
     },
     {
         "id": 50,
         "label": "What can I do on the mobile app?",
-        "answer": "The app allows you to browse and subscribe to creators, send tips, post and schedule content (for creators), manage subscriptions, and communicate via direct messages."
+        "answer": "The app allows you to browse and subscribe to creators, send tips, post and schedule content (for creators), manage subscriptions, and communicate via direct messages.",
+        "url": "NULL"
     },
     {
         "id": 51,
         "label": "Are there app-exclusive features?",
-        "answer": "We occasionally roll out new features to the app first, including push notifications, offline viewing for select content, and enhanced fan club community tools."
+        "answer": "We occasionally roll out new features to the app first, including push notifications, offline viewing for select content, and enhanced fan club community tools.",
+        "url": "NULL"
     },
     {
         "id": 52,
         "label": "How do I report a bug or issue on the app?",
-        "answer": "Go to Settings > Help & Support > Report a Problem, or email us at support@myvualt.com with details and screenshots if possible."
+        "answer": "Go to Settings > Help & Support > Report a Problem, or email us at support@myvualt.com with details and screenshots if possible.",
+        "url": "NULL"
     },
     {
         "id": 53,
         "label": "Does the app use a lot of data?",
-        "answer": "Streaming high-quality videos uses more data. We recommend using Wi-Fi when possible if you have limited data plans."
+        "answer": "Streaming high-quality videos uses more data. We recommend using Wi-Fi when possible if you have limited data plans.",
+        "url": "NULL"
     },
     {
         "id": 54,
         "label": "Is the app free?",
-        "answer": "Yes. Download and use it at no cost — but subscriptions and tips are paid."
+        "answer": "Yes. Download and use it at no cost — but subscriptions and tips are paid.",
+        "url": "NULL"
     },
     {
         "id": 55,
         "label": "Can I schedule posts from the app?",
-        "answer": "Absolutely. Use the Post Scheduler feature in your Creator Tools."
+        "answer": "Absolutely. Use the Post Scheduler feature in your Creator Tools.",
+        "url": "NULL"
     },
     {
         "id": 56,
         "label": "Why can't I see certain content?",
-        "answer": "Some content may be geo-restricted or require a specific subscription"
+        "answer": "Some content may be geo-restricted or require a specific subscription",
+        "url": "NULL"
     },
     {
         "id": 57,
         "label": "How do I update the app?",
-        "answer": "Visit your device's app store and tap \"Update\" on the Fliqz World app page."
+        "answer": "Visit your device's app store and tap \"Update\" on the Fliqz World app page.",
+        "url": "NULL"
     },
     {
         "id": 58,
         "label": "How do I sign up for Fliqz World?",
-        "answer": "Click \"Sign Up\" on our homepage. Enter your email, create a password, and follow the prompts to verify your email address."
+        "answer": "Click \"Sign Up\" on our homepage. Enter your email, create a password, and follow the prompts to verify your email address.",
+        "url": "NULL"
     },
     {
         "id": 59,
         "label": "Is signing up free?",
-        "answer": "Yes. Creating a fan or creator account is free. You only pay when you choose to subscribe, tip, or purchase content."
+        "answer": "Yes. Creating a fan or creator account is free. You only pay when you choose to subscribe, tip, or purchase content.",
+        "url": "NULL"
     },
     {
         "id": 60,
         "label": "How do I verify my account?",
-        "answer": "After signing up, check your email inbox for a verification link. Click the link to activate your account."
+        "answer": "After signing up, check your email inbox for a verification link. Click the link to activate your account.",
+        "url": "NULL"
     },
     {
         "id": 61,
         "label": "What information is needed to create a creator account?",
-        "answer": "You'll need to provide basic profile information, upload a profile image, and complete identity verification to ensure platform security."
+        "answer": "You'll need to provide basic profile information, upload a profile image, and complete identity verification to ensure platform security.",
+        "url": "NULL"
     },
     {
         "id": 62,
         "label": "Can I switch from a fan account to a creator account later?",
-        "answer": "Yes. Visit Account Settings > Become a Creator to upgrade your account and start earning."
+        "answer": "Yes. Visit Account Settings > Become a Creator to upgrade your account and start earning.",
+        "url": "NULL"
     },
     {
         "id": 63,
         "label": "How do I turn on or off email notifications?",
-        "answer": "Go to Account Settings > Notifications and toggle the switches for the types of emails you wish to receive."
+        "answer": "Go to Account Settings > Notifications and toggle the switches for the types of emails you wish to receive.",
+        "url": "NULL"
     },
     {
         "id": 64,
         "label": "How do I enable push notifications on mobile?",
-        "answer": "In the Fliqz World app, go to Settings > Notifications and allow push notifications. Also ensure your device settings allow notifications from the app."
+        "answer": "In the Fliqz World app, go to Settings > Notifications and allow push notifications. Also ensure your device settings allow notifications from the app.",
+        "url": "NULL"
     },
     {
         "id": 65,
         "label": "Can I choose which notifications I get?",
-        "answer": "Yes. You can choose to receive updates about new posts, messages, billing reminders, or promotional offers individually."
+        "answer": "Yes. You can choose to receive updates about new posts, messages, billing reminders, or promotional offers individually.",
+        "url": "NULL"
     },
     {
         "id": 66,
         "label": "Why am I not receiving notifications?",
-        "answer": "Check your spam or junk folder for emails, ensure push notifications are enabled in your device settings, and confirm your email address is verified in your account."
+        "answer": "Check your spam or junk folder for emails, ensure push notifications are enabled in your device settings, and confirm your email address is verified in your account.",
+        "url": "NULL"
     },
     {
         "id": 67,
         "label": "What payment methods are accepted?",
-        "answer": "We accept major credit/debit cards and select digital wallets depending on your country."
+        "answer": "We accept major credit/debit cards and select digital wallets depending on your country.",
+        "url": "NULL"
     },
     {
         "id": 68,
         "label": "Can I get a refund?",
-        "answer": "Subscriptions and tips are non-refundable except in cases of technical error or duplicate charges. Contact support@myvualt.com within 48 hours for help."
+        "answer": "Subscriptions and tips are non-refundable except in cases of technical error or duplicate charges. Contact support@myvualt.com within 48 hours for help.",
+        "url": "NULL"
     },
     {
         "id": 69,
         "label": "Why did my payment fail?",
-        "answer": "Check your card details, available balance, or contact your bank. You can also try another payment method."
+        "answer": "Check your card details, available balance, or contact your bank. You can also try another payment method.",
+        "url": "NULL"
     },
     {
         "id": 70,
         "label": "How often are creator payouts processed?",
-        "answer": "Weekly, once your earnings reach the minimum threshold."
+        "answer": "Weekly, once your earnings reach the minimum threshold.",
+        "url": "NULL"
     },
     {
         "id": 71,
         "label": "Is my data safe?",
-        "answer": "Yes. We use encryption, secure payment processing, and comply with GDPR/CCPA."
+        "answer": "Yes. We use encryption, secure payment processing, and comply with GDPR/CCPA.",
+        "url": "NULL"
     },
     {
         "id": 72,
         "label": "What payment methods can I use?",
-        "answer": "We accept major credit and debit cards, and in some regions, select digital wallets."
+        "answer": "We accept major credit and debit cards, and in some regions, select digital wallets.",
+        "url": "NULL"
     },
     {
         "id": 73,
         "label": "When do creators get paid?",
-        "answer": "Payouts are processed weekly once your account balance reaches the minimum payout threshold."
+        "answer": "Payouts are processed weekly once your account balance reaches the minimum payout threshold.",
+        "url": "NULL"
     },
     {
         "id": 74,
         "label": "Are there fees on transactions?",
-        "answer": "Yes. Platform and payment processing fees apply. You can view detailed fee structures in your Creator Dashboard."
+        "answer": "Yes. Platform and payment processing fees apply. You can view detailed fee structures in your Creator Dashboard.",
+        "url": "NULL"
     },
     {
         "id": 75,
         "label": "Why was my payment declined?",
-        "answer": "Check that your card details are correct, funds are available, and your bank isn't blocking the charge. You can also try another payment method."
+        "answer": "Check that your card details are correct, funds are available, and your bank isn't blocking the charge. You can also try another payment method.",
+        "url": "NULL"
     },
     {
         "id": 76,
         "label": "Can I get a refund on a subscription or tip?",
-        "answer": "Generally, all sales are final. Refunds are only issued in cases of duplicate charges or technical errors."
+        "answer": "Generally, all sales are final. Refunds are only issued in cases of duplicate charges or technical errors.",
+        "url": "NULL"
     },
     {
         "id": 77,
         "label": "How do I update my payment information?",
-        "answer": "Go to Account Settings > Billing and update your payment method."
+        "answer": "Go to Account Settings > Billing and update your payment method.",
+        "url": "NULL"
     },
     {
         "id": 78,
         "label": "Where can I find the Terms of Service and Privacy Policy?",
-        "answer": "Links are available in the site footer and here: Terms | Privacy."
+        "answer": "Links are available in the site footer and here: Terms | Privacy.",
+        "url": "NULL"
     },
     {
         "id": 79,
         "label": "How do I delete my account?",
-        "answer": "Contact us at support@myvualt.com or use the \"Delete Account\" option in your settings."
+        "answer": "Contact us at support@myvualt.com or use the \"Delete Account\" option in your settings.",
+        "url": "NULL"
     },
     {
         "id": 80,
         "label": "Can other users see my activity on Fliqz World?",
-        "answer": "No. Your subscriptions, tips, and purchases are private and not visible to other fans or creators."
+        "answer": "No. Your subscriptions, tips, and purchases are private and not visible to other fans or creators.",
+        "url": "NULL"
     },
     {
         "id": 81,
         "label": "How do I control what information is visible on my profile?",
-        "answer": "Go to Account Settings > Privacy to adjust which details (like profile picture or bio) are visible to creators."
+        "answer": "Go to Account Settings > Privacy to adjust which details (like profile picture or bio) are visible to creators.",
+        "url": "NULL"
     },
     {
         "id": 82,
         "label": "Can I use Fliqz World anonymously?",
-        "answer": "While your email is required for account creation, you can choose a display name and profile image that does not reveal your real identity."
+        "answer": "While your email is required for account creation, you can choose a display name and profile image that does not reveal your real identity.",
+        "url": "NULL"
     },
     {
         "id": 83,
         "label": "How do I request deletion of my data?",
-        "answer": "Contact support@myvualt.com or use the Delete Account feature in Settings. We will process your request in compliance with applicable data privacy laws."
+        "answer": "Contact support@myvualt.com or use the Delete Account feature in Settings. We will process your request in compliance with applicable data privacy laws.",
+        "url": "NULL"
     },
     {
         "id": 84,
         "label": "Are subscriptions refundable?",
-        "answer": "Generally, subscriptions are non-refundable as you gain immediate access to premium content upon purchase."
+        "answer": "Generally, subscriptions are non-refundable as you gain immediate access to premium content upon purchase.",
+        "url": "NULL"
     },
     {
         "id": 85,
         "label": "Can I get a refund for a tip I sent?",
-        "answer": "Tips are non-refundable, as they are considered direct support to creators."
+        "answer": "Tips are non-refundable, as they are considered direct support to creators.",
+        "url": "NULL"
     },
     {
         "id": 86,
         "label": "What if I was charged twice by mistake?",
-        "answer": "In cases of duplicate charges or technical errors, contact support@myvualt.com within 48 hours for assistance."
+        "answer": "In cases of duplicate charges or technical errors, contact support@myvualt.com within 48 hours for assistance.",
+        "url": "NULL"
     },
     {
         "id": 87,
         "label": "What happens if a creator deletes their account before my subscription ends?",
-        "answer": "You will lose access to their content. Depending on circumstances, partial refunds may be issued on a case-by-case basis."
+        "answer": "You will lose access to their content. Depending on circumstances, partial refunds may be issued on a case-by-case basis.",
+        "url": "NULL"
     },
     {
         "id": 88,
         "label": "How long does it take to process a refund request?",
-        "answer": "Approved refunds typically take 5-10 business days to appear on your statement."
+        "answer": "Approved refunds typically take 5-10 business days to appear on your statement.",
+        "url": "NULL"
     },
     {
         "id": 89,
         "label": "How do I report abusive content or users?",
-        "answer": "Click the “Report” option on any post or user profile. Our moderation team will investigate promptly."
+        "answer": "Click the \"Report\" option on any post or user profile. Our moderation team will investigate promptly.",
+        "url": "NULL"
     },
     {
         "id": 90,
         "label": "How do you protect my data?",
-        "answer": "We comply with GDPR, CCPA, and other data privacy laws. You can request account deletion or data export anytime."
+        "answer": "We comply with GDPR, CCPA, and other data privacy laws. You can request account deletion or data export anytime.",
+        "url": "NULL"
     },
     {
         "id": 91,
         "label": "How does Fliqz World protect my personal data?",
-        "answer": "We use advanced encryption and secure servers to protect your data. We comply with GDPR, CCPA, and other data privacy laws."
+        "answer": "We use advanced encryption and secure servers to protect your data. We comply with GDPR, CCPA, and other data privacy laws.",
+        "url": "NULL"
     },
     {
         "id": 92,
         "label": "Can I block another user?",
-        "answer": "Yes. Go to the user's profile, click the menu icon, and select \"Block User.\""
+        "answer": "Yes. Go to the user's profile, click the menu icon, and select \"Block User.\"",
+        "url": "NULL"
     },
     {
         "id": 93,
         "label": "What should I do if I receive abusive messages?",
-        "answer": "Use the \"Report\" feature on messages or profiles. Our moderation team reviews reports and takes appropriate action."
+        "answer": "Use the \"Report\" feature on messages or profiles. Our moderation team reviews reports and takes appropriate action.",
+        "url": "NULL"
     },
     {
         "id": 94,
         "label": "Is my payment information safe?",
-        "answer": "Yes. Payments are processed through secure third-party providers. We never store your full payment details on our servers."
+        "answer": "Yes. Payments are processed through secure third-party providers. We never store your full payment details on our servers.",
+        "url": "NULL"
     },
     {
         "id": 95,
         "label": "How do you handle harassment or hate speech?",
-        "answer": "We have strict policies against harassment, hate speech, and abusive content. Violations can lead to warnings, suspensions, or permanent bans."
+        "answer": "We have strict policies against harassment, hate speech, and abusive content. Violations can lead to warnings, suspensions, or permanent bans.",
+        "url": "NULL"
     },
     {
         "id": 96,
         "label": "What happens if my account is compromised?",
-        "answer": "Reset your password immediately and contact our support team. We'll help you secure your account."
+        "answer": "Reset your password immediately and contact our support team. We'll help you secure your account.",
+        "url": "NULL"
     },
     {
         "id": 97,
         "label": "I can't upload a video — what should I do?",
-        "answer": "Check your file type, size limits, and internet connection. If the issue persists, contact support with details."
+        "answer": "Check your file type, size limits, and internet connection. If the issue persists, contact support with details.",
+        "url": "NULL"
     },
     {
         "id": 98,
         "label": "I'm not receiving emails from Fliqz World.",
-        "answer": "Check your spam/junk folder and ensure you've added our email to your safe sender list."
+        "answer": "Check your spam/junk folder and ensure you've added our email to your safe sender list.",
+        "url": "NULL"
     },
     {
         "id": 99,
         "label": "Videos aren't playing properly.",
-        "answer": "Try clearing cache, updating the app/browser, or switching to Wi-Fi."
+        "answer": "Try clearing cache, updating the app/browser, or switching to Wi-Fi.",
+        "url": "NULL"
     },
     {
         "id": 100,
         "label": "Having issues with uploads?",
-        "answer": "Check file format, internet connection, and size limits. Contact support if needed."
+        "answer": "Check file format, internet connection, and size limits. Contact support if needed.",
+        "url": "NULL"
     },
     {
         "id": 101,
         "label": "I'm having trouble uploading a video. What should I do?",
-        "answer": "Ensure your file is in a supported format (MP4, MOV) and under the size limit. Check your internet connection. If the problem continues, contact support with the error message."
+        "answer": "Ensure your file is in a supported format (MP4, MOV) and under the size limit. Check your internet connection. If the problem continues, contact support with the error message.",
+        "url": "NULL"
     },
     {
         "id": 102,
         "label": "Why isn't my payment going through?",
-        "answer": "Verify your card details, check for sufficient funds, or try a different card. Contact your bank to ensure they aren't blocking the transaction."
+        "answer": "Verify your card details, check for sufficient funds, or try a different card. Contact your bank to ensure they aren't blocking the transaction.",
+        "url": "NULL"
     },
     {
         "id": 103,
         "label": "I'm not getting email notifications.",
-        "answer": "Check your spam/junk folder. Add notifications@myvualt.com to your safe sender list. Also, verify notification preferences in your account settings."
+        "answer": "Check your spam/junk folder. Add notifications@myvualt.com to your safe sender list. Also, verify notification preferences in your account settings.",
+        "url": "NULL"
     },
     {
         "id": 104,
         "label": "The app or website isn't loading properly.",
-        "answer": "Try clearing your browser/app cache, update to the latest version, or switch to a different browser/device."
+        "answer": "Try clearing your browser/app cache, update to the latest version, or switch to a different browser/device.",
+        "url": "NULL"
     },
     {
         "id": 105,
         "label": "I forgot my password. How do I reset it?",
-        "answer": "Click \"Forgot Password\" on the sign-in page and follow the instructions in the email sent to you."
+        "answer": "Click \"Forgot Password\" on the sign-in page and follow the instructions in the email sent to you.",
+        "url": "NULL"
     },
     {
         "id": 107,
         "label": "Why is my content stuck in processing?",
-        "answer": "High traffic or large file sizes can cause delays. If processing takes more than 30 minutes, contact support."
+        "answer": "High traffic or large file sizes can cause delays. If processing takes more than 30 minutes, contact support.",
+        "url": "NULL"
     },
     {
         "id": 108,
         "label": "How do I report a bug?",
-        "answer": "Email support@myvualt.com with details, including device type, operating system, screenshots, and steps to reproduce the issue."
+        "answer": "Email support@myvualt.com with details, including device type, operating system, screenshots, and steps to reproduce the issue.",
+        "url": "NULL"
+    },
+    {
+        "id": 109,
+        "label": "Fliqz World - Feed/Dashboard",
+        "answer": "Fliqz World is a comprehensive social media platform with features including: User feed with posts, stories, and collaborations; Content creation tools with polls and quizzes; Social interactions (likes, comments, bookmarks, sharing); User profiles with verification system; Messaging system; Streams/live streaming; Shopping/e-commerce integration; Event ticketing; Wallet and payment system; Subscription management; Referral program; Analytics; Content filtering options (All, Subscribers, Followers, For You)",
+        "url": "https://beta.fliqzworld.com/feed"
+    },
+    {
+        "id": 110,
+        "label": "Navigation Menu Options",
+        "answer": "Main navigation includes: Home/Feed, Messages, Streams, Bookmarks, Lists, Referrals, Subscriptions, My Profile, Events, Shop, Orders, Wallet, Settings, Help & Support, Analytics, Report, Logout, Become a Creator program, etc",
+        "url": "Side Menu Bar"
+    },
+    {
+        "id": 111,
+        "label": "Platform Features Summary",
+        "answer": "Key features: Social feed with multimedia posts, Real-time messaging, Live streaming, E-commerce shopping, Event management, Digital wallet, Content monetization (tips, subscriptions), User collaboration tools, Polls and quizzes, Story creation, Content bookmarking, User verification system, Referral program, Post boosting for reach, Mobile-responsive design with bottom navigation",
+        "url": "Side Bar Menu"
+    },
+    {
+        "id": 112,
+        "label": "Fliqz World - Messages Page",
+        "answer": "Messages page showing conversation threads with various users. Features include: List of message conversations with previews, Online status indicators for users, Unread message counts, Timestamp for last messages, User avatars and names, Clickable conversation threads",
+        "url": "https://beta.fliqzworld.com/messages"
+    },
+    {
+        "id": 113,
+        "label": "Fliqz World - Bookmarks Page",
+        "answer": "Bookmarks page showing saved posts from various users. Current user: John Doe. Features include: Saved posts with full content preview, Filtering options by content type (All, Photos, Videos, Streams, Locked), Search functionality for bookmarks, Post interactions (like, comment, bookmark removal, share, tip), User online status indicators, Post analytics (likes, comments, tips), Boost post options for increased visibility",
+        "url": "https://beta.fliqzworld.com/bookmark"
+    },
+    {
+        "id": 114,
+        "label": "Stream Videos Page",
+        "answer": "This is the Stream Videos page displaying live streaming content. The main content area features a video grid with filter buttons: All, Live, Recent, and Scheduled.",
+        "url": "https://beta.fliqzworld.com/streamvideo"
+    },
+    {
+        "id": 115,
+        "label": "User Dashboard - Wallet Page",
+        "answer": "This is the user wallet dashboard page where users can manage their funds and payments. The page displays: Current wallet balance of $614 with available funds message, Add Funds functionality with amount input field, Address selection dropdown with options for existing addresses and add new address, Card selection dropdown with option to add new card, Remarks input field for transaction notes, Add Funds submission button. The page also includes user navigation sidebar with: User profile section showing John Doe, Navigation links for Home, Messages, Streams, Bookmarks, Lists, Referrals, Subscriptions, My Profile, and More, Action buttons for 'Become a Creator' and 'New Post'",
+        "url": "https://beta.fliqzworld.com/my/settings/wallet"
+    },
+    {
+        "id": 116,
+        "label": "User Dashboard - Wallet Transactions Page",
+        "answer": "This is the user wallet transactions page showing detailed transaction history. The page displays: Current wallet balance of $614 with available funds message, Transactions tab is active, Transaction filter dropdown with options: All, Credit, Debit, Export CSV functionality, Extensive transaction history showing various types of transactions including: Tips sent to creators, Subscription payments, Crowdfunding contributions, Unlock payments, VIP chatbox enablement fees, Withdrawals to bank account, Funds added via payment, Funds added via tip earnings. Transaction details include: Date and timestamp, Transaction type description, Amount, Recipient/sender information, Context",
+        "url": "https://beta.fliqzworld.com/my/settings/wallet"
+    },
+    {
+        "id": 117,
+        "label": "Auctions Marketplace - All Auctions Page",
+        "answer": "This is the auctions marketplace page displaying all available auction products. The page shows a grid of auction items with: Page title 'All Auctions' and subtitle 'List of available auction products', Multiple auction cards displayed in a responsive grid layout. Each auction card contains: Product image with hover effect, Product title and description, Minimum bid amount, Current bid amount, Eye icon for viewing details, Clickable links to individual auction detail pages",
+        "url": "https://beta.fliqzworld.com/auctions"
+    },
+    {
+        "id": 118,
+        "label": "Auction Details Page",
+        "answer": "This is the auction details page for the product . The page displays detailed information about the auction item including: Product image gallery showing the item image, Product title  and description , Pricing information with Starting Price and Current Bid, Auction timeline  ,Bid input form with field for entering bid amount , Place Bid button to submit the bid.",
+        "url": "https://beta.fliqzworld.com/auctiondetails/:slug"
+    },
+    {
+        "id": 119,
+        "label": "User Settings - Profile Management Page",
+        "answer": "This is the user profile settings page where users can manage their account information. The page includes: Profile section with cover photo and avatar image upload functionality, Form fields for personal information: First Name, Last Name, Email, Phone, Username, Bio, Birthdate, Gender selection, Address information, Social media links, Submit button to save changes",
+        "url": "https://beta.fliqzworld.com/my/settings/profile"
+    },
+    {
+        "id": 120,
+        "label": "User Settings - Change Password Page",
+        "answer": "This is the change password page where users can update their account password. The page includes: Password change form with three input fields: Current Password field with placeholder '(Minimum 6 characters)' and eye icon for visibility toggle, New Password field with placeholder '(Minimum 8 characters with mix of letters, numbers & symbols)' and eye icon for visibility toggle, Confirm Password field with placeholder 'Re-enter your new password' and eye icon for visibility toggle, Change Password button (currently disabled). All password fields include eye icons that allow users to toggle password visibility. The page has security requirements: Current password must be at least 6 characters, New password must be at least 8 characters with a mix of letters, numbers, and symbols. The settings menu sidebar shows Change Password as the active section, with other options including Profile, Address Book, My Cards, Verify, and Support Ticket. The main navigation sidebar remains with user profile and standard navigation links.",
+        "url": "https://beta.fliqzworld.com/my/settings/change-password"
+    },
+    {
+        "id": 121,
+        "label": "User Settings - Address Book Page",
+        "answer": "This is the address book management page where users can view and manage their saved addresses. The page displays: Page title 'Address Book' with subtitle 'List of all the Addresses', 'Create New' button to add new addresses, Grid layout showing all saved addresses with edit and delete options. Current saved addresses include: 'my ad' - india, West Bengal, la - 712304, 'hi' - Payragacha, West Bengal, Janai - 712304, 'Payragacha' - Payragacha, West Bengal, Janai - 712304, 'Home' - 123 Main Street, Apt 4B, California, Los Angeles - 90001. Each address card shows: Address title/name, Full address details including street, city, state, and zip code, Edit button with pencil icon (links to edit page), Delete button with trash icon. The settings menu sidebar shows Address Book as the active section, with other options including Profile, Change Password, My Cards, Verify, and Support Ticket. The main navigation sidebar remains with user profile and standard navigation links.",
+        "url": "https://beta.fliqzworld.com/address"
+    },
+    {
+        "id": 122,
+        "label": "User Settings - Create New Address Page",
+        "answer": "This is the create new address page where users can add a new shipping/billing address to their address book. The page displays: Page title 'Address Book' with subtitle 'Create a New Address', 'List' button to return to the address book list view, Comprehensive address form with required fields: Address Title (name for the address), Name (recipient name), Email (recipient email), Phone with international phone input (default US +1), Address (primary address line), Address 2 (optional secondary address line), State, City, Zipcode, Country selection dropdown with options including United States, UK, Canada, Australia, and European countries, Submit button to save the new address. All fields except Address 2 are marked as required with asterisks. The phone input includes country flag selection for international numbers. The settings menu sidebar shows all options (Profile, Change Password, Address Book, My Cards, Verify, Support Ticket) but no active section highlighted. The main navigation sidebar remains with user profile and standard navigation links.",
+        "url": "https://beta.fliqzworld.com/new-address"
+    },
+    {
+        "id": 123,
+        "label": "User Settings - Edit Address Page",
+        "answer": "This is the edit address page where users can modify an existing address in their address book. The page displays: Page title 'Address Book' with subtitle 'Edit Existing Address', 'List' button to return to the address book list view, Pre-filled address form with existing data: Address Title: 'my ad', Name: 'ram', Email: 'fans123@gmail.com', Phone: '+1 (558) 88' (US number), Address: 'india', Address 2: (empty), State: 'West Bengal', City: 'la', Zipcode: '712304', Country: (not selected from dropdown), Update button to save changes. All fields except Address 2 are marked as required with asterisks. The phone input includes country flag selection (currently set to United States). The country selection dropdown includes options for United States, UK, Canada, Australia, and various European countries. The settings menu sidebar shows all options (Profile, Change Password, Address Book, My Cards, Verify, Support Ticket) but no active section highlighted. The main navigation sidebar remains with user profile and standard navigation links.",
+        "url": "https://beta.fliqzworld.com/edit-address/:id"
+    },
+    {
+        "id": 124,
+        "label": "User Settings - Create New Card Page",
+        "answer": "This is the create new card page where users can add a new payment card to their account. The page displays: Page title 'My Cards' with subtitle 'Create a New Card', 'List' button to return to the cards list view, Stripe payment integration for secure card processing, Embedded Stripe Elements iframe for card information input (card number, expiry, CVC), Submit button to save the new card. The Stripe integration is in test mode using test API key (pk_test_51RSW5WIXGv82KqcrnAKBLR5jGRBjoAfPqg0Os2PQbbytK7UGXKRTg5V7h33zXq46l1QDncLhp04AnBhfiaE7WhSU00BqASa00I). The card input form securely handles payment information without storing sensitive data on the server. The settings menu sidebar shows all options (Profile, Change Password, Address Book, My Cards, Verify, Support Ticket) but no active section highlighted. The main navigation sidebar remains with user profile and standard navigation links.",
+        "url": "https://beta.fliqzworld.com/new-card"
+    },
+    {
+        "id": 125,
+        "label": "User Settings - My Cards List Page",
+        "answer": "This is the my cards list page where users can view their saved payment cards. The page displays: Page title 'My Cards' with subtitle 'List of all the Cards', 'Create New' button to add a new payment card, Currently empty card list (no saved cards displayed), Empty grid layout ready to display saved payment cards when available. The settings menu sidebar shows My Cards as the active section, with other options including Profile, Change Password, Address Book, Verify, and Support Ticket. The main navigation sidebar remains with user profile and standard navigation links including Home, Messages, Streams, Bookmarks, Lists, Referrals, Subscriptions, My Profile, and More. Action buttons for 'Become a Creator' and 'New Post' are available in the sidebar.",
+        "url": "https://beta.fliqzworld.com/card"
+    },
+    {
+        "id": 126,
+        "label": "User Settings - Account Verification Page",
+        "answer": "This is the account verification page where users can complete identity verification steps to unlock full account access. The page displays: Page title 'Account Verification' with subtitle 'Complete these steps to verify your account and unlock full access.', Multiple verification steps with warning icons indicating incomplete status. Verification steps include: Email Verification - 'Verify your email address to secure your account' with 'Send Code' button, Phone Verification - 'Verify your phone number for additional security' with 'Send Code' button, Identity Verification - 'Upload a government-issued ID (Max 2MB)' with file upload interface accepting JPG/JPEG format, Take Your Selfie - 'Take a live photo for identity verification' with 'Take Selfie' button, Additional Identity Verification - 'We may ask you to complete Identity verification when we notice unusual purchases on your account or other compliance related purposes. Identity verification can also help you resolve issues when adding payment methods.' with 'Verify Identity' button. The settings menu sidebar shows Verify as the active section, with other options including Profile, Change Password, Address Book, My Cards, and Support Ticket. The main navigation sidebar remains with user profile and standard navigation links.",
+        "url": "https://beta.fliqzworld.com/my/settings/verify"
+    },
+    {
+        "id": 127,
+        "label": "User Settings - Support Ticket List Page",
+        "answer": "This is the support ticket list page where users can view and manage their support requests. The page displays: Page title 'Support Ticket' with subtitle 'List of all the Support Tickets', 'Create New' button to submit a new support ticket, Grid layout showing support tickets with example ticket showing: Subject (generic placeholder), Created at: 01-05-2025, Status: Active (shown in green color), Eye icon for viewing ticket details, Clickable links to FAQ section and ticket details. The settings menu sidebar shows Support Ticket as the active section, with other options including Profile, Change Password, Address Book, My Cards, and Verify. The main navigation sidebar remains with user profile and standard navigation links including Home, Messages, Streams, Bookmarks, Lists, Referrals, Subscriptions, My Profile, and More. Action buttons for 'Become a Creator' and 'New Post' are available in the sidebar.",
+        "url": "https://beta.fliqzworld.com/ticket"
+    },
+    {
+        "id": 128,
+        "label": "Support Ticket Details Page",
+        "answer": "This is the support ticket details page showing an individual support conversation. The page displays: Page title 'Ticket's Details' with detailed conversation thread, Ticket information sidebar showing: Ticket ID: #55445455454, Status: Solved (green status), Created: April 18, 2025 at 04:22AM, Last Activity: April 18, 2025 at 04:22AM, Requester: John Doe, Conversation thread with multiple messages from John Doe all dated April 18, 2025 at 04:22 AM, Message content includes placeholder text (Lorem ipsum) and some messages contain attached images of birds, Chat interface at bottom with: File attachment icon for uploading files, Text input field with placeholder 'Write a message..', Send message icon. All messages show user avatar and timestamp. The main navigation sidebar remains with user profile and standard navigation links including Home, Messages, Streams, Bookmarks, Lists, Referrals, Subscriptions, My Profile, and More. Action buttons for 'Become a Creator' and 'New Post' are available in the sidebar.",
+        "url": "https://beta.fliqzworld.com/ticketdetails"
+    },
+    {
+        "id": 129,
+        "label": "Create New Support Ticket Page",
+        "answer": "This is the create new support ticket page where users can submit new support requests. The page displays: Page title 'Support Ticket' with subtitle 'Create a New Support Ticket', 'List' button to return to the support tickets list view, Support ticket creation form with required fields: Category selection dropdown with options: Account Settings, Login and Password, Privacy and Security, Marketplace, Groups, Pages, Subject input field for ticket title, Message textarea for detailed description, Priority selection dropdown with options: Low, Medium, High, Submit button to create the ticket. All form fields are marked as required with asterisks. The main navigation sidebar remains with user profile and standard navigation links including Home, Messages, Streams, Bookmarks, Lists, Referrals, Subscriptions, My Profile, and More. Action buttons for 'Become a Creator' and 'New Post' are available in the sidebar.",
+        "url": "https://beta.fliqzworld.com/new-ticket"
+    },
+    {
+        "id": 130,
+        "label": "Help & Support FAQ Categories Page",
+        "answer": "This is the main help and support page that provides access to frequently asked questions organized by categories. The page displays: Page title 'Help & Support' with last updated date, Grid layout of 14 different FAQ categories with icons: Fans, Creators, Payments & Billing, Safety & Security, Technical Support, Policies & Legal, Fliqz World Mobile App, Notification Settings, Refund Policies, Privacy Controls, Device Compatibility, Content Preferences, Advanced Filtering, Getting Started",
+        "url": "https://beta.fliqzworld.com/helpsupport"
+    },
+    {
+        "id": 131,
+        "label": "Fliqz World - Referrals Program",
+        "answer": "Referrals program page where users can invite others to earn commissions from subscriptions. Features include: Personal referral link for sharing, Copy and share functionality for referral link, Referral earnings tracking, Referral list showing invited users and earnings, Commission system based on referred user subscriptions, User-friendly interface with clear earnings display",
+        "url": "https://beta.fliqzworld.com/my/settings/referrals"
+    },
+    {
+        "id": 132,
+        "label": "Fliqz World - Subscriptions Management",
+        "answer": "Subscriptions management page showing active subscriptions to other creators. Features include: Active subscriptions list with creator profiles, Subscription status tracking, Start and expiry dates, Subscription type information, Management options for each subscription, Tab navigation between Subscriptions and Passport, Pagination for subscription list",
+        "url": "https://beta.fliqzworld.com/my/settings/subscriptions"
+    },
+    {
+        "id": 133,
+        "label": "Fliqz World - User Profile Page",
+        "answer": "John Doe's personal profile page displaying user information, statistics, and posts. Features include: Custom cover photo, User avatar with edit options, Profile statistics (followers, following, posts), User bio and professional information, Online status management, Content filtering tabs, User posts with engagement metrics, Profile editing capabilities, Social connections display",
+        "url": "https://beta.fliqzworld.com/profile"
+    },
+    {
+        "id": 134,
+        "label": "Fliqz World - Notifications Center",
+        "answer": "Notifications page displaying system alerts and user activity notifications. Features include: Categorized notification types, Timestamp for each notification, Default avatar for system notifications, Tabbed filtering system, Pagination for notification history, Clean card-based notification layout, Read/unread status indicators",
+        "url": "https://beta.fliqzworld.com/notifications"
+    },
+    {
+        "id": 135,
+        "label": "Fliqz World - Shop & Products",
+        "answer": "E-commerce shop page displaying various products available for purchase. Features include: Product grid layout with cards, Product images and descriptions, Pricing information, Clickable product details, Hover effects with view icons, Responsive product catalog, Professional shopping interface",
+        "url": "https://beta.fliqzworld.com/Shop"
+    },
+    {
+        "id": 136,
+        "label": "Fliqz World - Product Details Page",
+        "answer": "Product details page. Features include: Product image gallery with navigation, Size and color selection options, Quantity selector, Pricing information, Add to cart and buy now buttons, Two-column responsive layout, Professional e-commerce interface",
+        "url": "/shopdetails/:slug"
+    },
+    {
+        "id": 137,
+        "label": "Product Listing Page",
+        "answer": "This is a product listing form page where users can create and submit new product listings. The page contains a user dashboard with navigation sidebar and a main content area with a product form. The form includes fields for: product name, price, quantity, product type (physical or digital), sizes, colors, thumbnail uploads, and product description. There are navigation options for Home, Messages, Streams, Bookmarks, Lists, Referrals, Subscriptions, Profile, Crowdfunding, and More. Action buttons include 'Go Live' and 'New Post' functionality.",
+        "url": "https://beta.fliqzworld.com/new-product"
+    },
+    {
+        "id": 138,
+        "label": "FAQ - Fans Category Page",
+        "answer": "This is the FAQ page specifically for fans, providing comprehensive answers to common questions about using the platform as a viewer and supporter. The page features: Page title 'Fans' with expandable accordion-style FAQ sections covering 22 common questions including: How to find and subscribe to creators, Subscription cancellation process, Custom content requests, Tipping creators, Account security and privacy, Finding creators to follow, Subscription management (pausing/restarting), Receiving creator updates, Supported payment methods, Refund policies, Content reporting procedures, Billing descriptor privacy, Account settings updates, Failed payment handling, Fan interaction features. Each question expands to show detailed answers with practical guidance. Related topics section with links to: Payments & Billing, Getting Started, Creators FAQ. The main navigation sidebar remains with user profile and standard navigation links including Home, Messages, Streams, Bookmarks, Lists, Referrals, Subscriptions, My Profile, and More. Action buttons for 'Become a Creator' and 'New Post' are available in the sidebar.",
+        "url": "https://beta.fliqzworld.com/faq/:faq_id"
+    },
+    {
+        "id": 139,
+        "label": "FAQ - Creators Category Page",
+        "answer": "This is the FAQ page specifically for creators, providing comprehensive answers to common questions about content creation, monetization, and platform management. The page features: Page title 'Creators' with expandable accordion-style FAQ sections covering 13 key topics including: How to become a creator and verification process, Earnings maximization strategies and promotion tips, Payout processing and payment methods, Content restrictions and guidelines, Supported file types for uploads, Profile promotion and marketing strategies, Fan tier setup and subscription management, Dispute resolution with fans, Platform fees and earnings structure, Content protection and copyright reporting, Content creation guidelines and allowed formats, Payout schedules and payment processing, Content compliance and legal requirements. Each question expands to show detailed answers with practical guidance for creators. Related topics section with links to: Payments & Billing, Getting Started, Fans FAQ. The main navigation sidebar remains with user profile and standard navigation links including Home, Messages, Streams, Bookmarks, Lists, Referrals, Subscriptions, My Profile, and More. Action buttons for 'Become a Creator' and 'New Post' are available in the sidebar.",
+        "url": "https://beta.fliqzworld.com/faq/:faq_id"
+    },
+    {
+        "id": 140,
+        "label": "FAQ - Payments & Billing Category Page",
+        "answer": "This is the FAQ page specifically for payments and billing, providing comprehensive answers to financial transactions, payment methods, and billing inquiries. The page features: Page title 'Payments & Billing' with expandable accordion-style FAQ sections covering 11 key topics including: Accepted payment methods (credit/debit cards, digital wallets), Refund policies for subscriptions and tips, Payment failure troubleshooting and solutions, Creator payout schedules and thresholds, Data security and privacy compliance (GDPR/CCPA), Transaction fees and platform charges, Payment decline reasons and resolution, Payment information updates and management, Payout processing timelines, Technical error refund procedures, Billing settings management. Each question expands to show detailed answers with practical financial guidance. Related topics section with links to: Safety & Security, Technical Support, Refund Policies. The main navigation sidebar remains with user profile and standard navigation links including Home, Messages, Streams, Bookmarks, Lists, Referrals, Subscriptions, My Profile, and More. Action buttons for 'Become a Creator' and 'New Post' are available in the sidebar.",
+        "url": "https://beta.fliqzworld.com/faq/:faq_id"
+    },
+    {
+        "id": 141,
+        "label": "FAQ - Safety & Security Category Page",
+        "answer": "This is the FAQ page specifically for safety and security, providing comprehensive answers to user protection, privacy, and platform security measures. The page features: Page title 'Safety & Security' with expandable accordion-style FAQ sections covering 8 key topics including: Reporting abusive content or users through the 'Report' feature, Data protection measures and privacy compliance (GDPR, CCPA), Blocking users functionality and procedures, Handling abusive messages and harassment, Payment information security and encryption, Harassment and hate speech policies with consequences, Account compromise response and recovery procedures, Data privacy laws compliance and user rights. Each question expands to show detailed answers with practical security guidance. Related topics section with links to: Payments & Billing, Technical Support, Refund Policies. The main navigation sidebar remains with user profile and standard navigation links including Home, Messages, Streams, Bookmarks, Lists, Referrals, Subscriptions, My Profile, and More. Action buttons for 'Become a Creator' and 'New Post' are available in the sidebar.",
+        "url": "https://beta.fliqzworld.com/faq/:faq_id"
+    },
+    {
+        "id": 142,
+        "label": "FAQ - Technical Support Category Page",
+        "answer": "This is the FAQ page specifically for technical support, providing comprehensive troubleshooting solutions for common platform technical issues. The page features: Page title 'Technical Support' with expandable accordion-style FAQ sections covering 11 key technical issues including: Video upload problems and file format requirements, Email notification delivery issues and spam folder checks, Video playback problems and browser/app troubleshooting, Payment processing failures and card verification, Password reset procedures and account recovery, Content processing delays and file size limitations, App/website loading issues and cache clearing, Bug reporting procedures with detailed information requirements, Internet connection troubleshooting, File format compatibility (MP4, MOV), Account notification settings configuration. Each question expands to show detailed technical troubleshooting steps and solutions. Related topics section with links to: Payments & Billing, Safety & Security, Refund Policies. The main navigation sidebar remains with user profile and standard navigation links including Home, Messages, Streams, Bookmarks, Lists, Referrals, Subscriptions, My Profile, and More. Action buttons for 'Become a Creator' and 'New Post' are available in the sidebar.",
+        "url": "https://beta.fliqzworld.com/faq/:faq_id"
+    },
+    {
+        "id": 143,
+        "label": "FAQ - Policies & Legal Category Page",
+        "answer": "This is the FAQ page specifically for policies and legal information, providing guidance on platform terms, privacy, and legal compliance. The page features: Page title 'Policies & Legal' with expandable accordion-style FAQ sections covering 2 key legal topics including: Terms of Service and Privacy Policy access locations (site footer links), Account deletion procedures and contact methods. Each question expands to show detailed legal and policy information. Related topics section with links to: Privacy Controls, Content Preferences, Getting Started. The main navigation sidebar remains with user profile and standard navigation links including Home, Messages, Streams, Bookmarks, Lists, Referrals, Subscriptions, My Profile, and More. Action buttons for 'Become a Creator' and 'New Post' are available in the sidebar.",
+        "url": "https://beta.fliqzworld.com/faq/:faq_id"
+    },
+    {
+        "id": 144,
+        "label": "FAQ - Fliqz World Mobile App Category Page",
+        "answer": "This is the FAQ page specifically for the Fliqz World mobile application, providing comprehensive information about app features, functionality, and usage. The page features: Page title 'Using the Fliqz World Mobile App' with expandable accordion-style FAQ sections covering 9 key mobile app topics including: App availability for iOS and Android platforms, Mobile app functionality for browsing, subscribing, tipping, and content management, App-exclusive features like push notifications and offline viewing, Bug reporting procedures within the app settings, Data usage considerations for video streaming, Free app download with paid subscription model, Post scheduling capabilities for creators, Content visibility and geo-restrictions, App update procedures through app stores. Each question expands to show detailed mobile app guidance. Related topics section with links to: Notification Settings, Device Compatibility, Advanced Filtering Options. The main navigation sidebar remains with user profile and standard navigation links including Home, Messages, Streams, Bookmarks, Lists, Referrals, Subscriptions, My Profile, and More. Action buttons for 'Become a Creator' and 'New Post' are available in the sidebar.",
+        "url": "https://beta.fliqzworld.com/faq/:faq_id"
+    },
+    {
+        "id": 145,
+        "label": "Notification Settings FAQ",
+        "answer": "This page contains FAQ about notification settings with the following questions and answers: 1. How do I turn on or off email notifications? - Go to Account Settings > Notifications and toggle the switches for the types of emails you wish to receive. 2. How do I enable push notifications on mobile? - In the Fliqz World app, go to Settings > Notifications and allow push notifications. Also ensure your device settings allow notifications from the app. 3. Can I choose which notifications I get? - Yes. You can choose to receive updates about new posts, messages, billing reminders, or promotional offers individually. 4. Why am I not receiving notifications? - Check your spam or junk folder for emails, ensure push notifications are enabled in your device settings, and confirm your email address is verified in your account.",
+        "url": "https://beta.fliqzworld.com/faq/:faq_id"
+    },
+    {
+        "id": 146,
+        "label": "Refund Policies FAQ",
+        "answer": "This page contains FAQ about refund policies with the following questions and answers: 1. Are subscriptions refundable? - Generally, subscriptions are non-refundable as you gain immediate access to premium content upon purchase. 2. Can I get a refund for a tip I sent? - Tips are non-refundable, as they are considered direct support to creators. 3. What if I was charged twice by mistake? - In cases of duplicate charges or technical errors, contact support@myvualt.com within 48 hours for assistance. 4. What happens if a creator deletes their account before my subscription ends? - You will lose access to their content. Depending on circumstances, partial refunds may be issued on a case-by-case basis. 5. How long does it take to process a refund request? - Approved refunds typically take 5-10 business days to appear on your statement.",
+        "url": "https://beta.fliqzworld.com/faq/:faq_id"
+    },
+    {
+        "id": 147,
+        "label": "Crowdfunding Projects Page",
+        "answer": "This is the Crowdfunding Projects page showing user-created crowdfunding campaigns. The page displays: Header with 'Crowdfunding Projects' title and subtitle 'Support innovative ideas and community initiatives'. 'Start New Crowdfunding' button to create new campaigns. Crowdfunding project cards with status, raised amount, project description, progress bar, and management options",
+        "url": "https://beta.fliqzworld.com/crowdfunding"
+    },
+    {
+        "id": 148,
+        "label": "Analytics Dashboard - Overview",
+        "answer": "This is the Analytics Dashboard showing creator performance metrics. The Overview tab displays: Growth Rate, Daily Followers, Weekly Followers, Steady Growth percentage, Follower Growth chart visualization, Current Followers count. Navigation tabs include Overview, Growth, Engagement, and Posts for comprehensive analytics",
+        "url": "https://beta.fliqzworld.com/analytics"
+    },
+    {
+        "id": 149,
+        "label": "My Collaborations Page",
+        "answer": "This is the My Collaborations page showing active collaboration projects. The page displays: Header with 'My Collaborations' title and subtitle 'List of your active collaborations'. 'Create New Collaboration' button to start new collaborations. Collaboration cards with project images, status indicators, collaborator avatars, and management options",
+        "url": "https://beta.fliqzworld.com/collaboration"
+    },
+    {
+        "id": 150,
+        "label": "Collaboration Card Details",
+        "answer": "Individual collaboration card shows: Collaboration image with proper aspect ratio and cover display, Project title 'Test' with text truncation for long names, Status indicator: 'Invited' with collaborator avatar (FansTest), Avatar display with circular border and shadow effects, Hover eye icon for preview functionality, Delete action button for collaboration management, Card layout with hover effects and visual enhancements",
+        "url": "https://beta.fliqzworld.com/collaboration/:slug"
+    },
+    {
+        "id": 151,
+        "label": "Create New Collaboration Form",
+        "answer": "This is the Create New Collaboration page with a comprehensive form for creating collaborative projects. The form includes: Title field (required), Collaboration Image upload (required, accepts JPEG/PNG up to 5MB), Invite Collaborators section (required, allows 1-7 collaborators) with user search functionality, Search input with search icon for finding followers, Empty state showing 'No collaborators selected yet', Form actions with Cancel button and disabled Create Collaboration submit button. Navigation includes 'Back to Collaborations' link. User is logged in as 'Creator 1' creating a new collaboration project.",
+        "url": "https://beta.fliqzworld.com/new-collaboration"
+    },
+    {
+        "id": 152,
+        "label": "Report Page",
+        "answer": "This is the page showing Reports with the Orders tab active. The page displays navigation tabs for different revenue streams: Orders, Subscriptions, Tips, Event Tickets, Shout Out, Special Request. Time filter options and transaction details with amounts and timestamps",
+        "url": "https://beta.fliqzworld.com/report"
+    },
+    {
+        "id": 153,
+        "label": "Fliqz World - Order History",
+        "answer": "Order history page displaying all past product purchases and order details. Features include: Tabbed navigation between Orders and Tickets, Order listing with product details, Status tracking, Date and pricing information, View order details functionality, Pagination controls, Professional order management interface",
+        "url": "https://beta.fliqzworld.com/orderhistory"
+    },
+    {
+        "id": 154,
+        "label": "Events Management System",
+        "answer": "Management features: Centralized events dashboard, Ticket organization in grid format, Future event planning, Creator attribution for each event, Bulk event viewing capability, Detailed event access through individual pages, Professional event presentation system",
+        "url": "https://beta.fliqzworld.com/eventtickets"
+    },
+    {
+        "id": 155,
+        "label": "Fliqz World - Event Details Page",
+        "answer": "Detailed event page for Event showing comprehensive event information, artist details, and booking options. Current user: John Doe. Features include: Event banner image, Artist profile with image, Detailed event specifications, Pricing and booking system, Share functionality, Responsive two-column layout, Event status information panel",
+        "url": "https://beta.fliqzworld.com/eventdetails/:id"
+    },
+    {
+        "id": 156,
+        "label": "Lists Navigation & Interface",
+        "answer": "Active section: Lists in main navigation. Page features: 'Create New List' button (plus icon), List items with name and member count, Horizontal dividers between lists, User avatar previews (3 avatars shown per list), Responsive design with hover states, Modal popup for list creation with name input field",
+        "url": "https://beta.fliqzworld.com/lists"
+    },
+    {
+        "id": 157,
+        "label": "List Creation Feature",
+        "answer": "New list creation modal with: 'Create a new list' title, Text input field for list name, Validation for required list name, Save button to create list. Lists can be customized for organizing users into categories like personal favorites, groups, or any custom classification",
+        "url": "https://beta.fliqzworld.com/lists"
+    },
+    {
+        "id": 158,
+        "label": "Fliqz World Homepage",
+        "answer": "This is the Fliqz World homepage featuring a comprehensive platform overview. The page includes: Hero banner with platform messaging and call-to-action buttons, About section with dual-column layout for Creators and Fans, Creator showcase section, Video reels section, Video clips section with categorized content, Footer with company information and legal links",
+        "url": "https://beta.fliqzworld.com/"
+    },
+    {
+        "id": 159,
+        "label": "Discover Page",
+        "answer": "Fliqz World is a paywall social network platform where users can buy and sell content through subscriptions. The platform features trending creators, subscription-based content, and community engagement. Key sections include: Navigation with Discover, Leaderboard, Creators, Clips, How It Works, and Shop; Main banner featuring creators with subscribe/follow options; Platform features highlighting paywall social network, fan and creator community, and quality content; Trending creators section with subscriber counts; Suggested content with category filters",
+        "url": "https://beta.fliqzworld.com/discover"
+    },
+    {
+        "id": 160,
+        "label": "Leaderboard Page",
+        "answer": "Fliqz World Leaderboard displays the top creators ranked by their earnings. The page features a prominent top 3 section with special medal designs and a comprehensive table showing ranked creators with their usernames, profile pictures, and prize amounts",
+        "url": "https://beta.fliqzworld.com/leaderboard"
+    },
+    {
+        "id": 161,
+        "label": "Creators Page",
+        "answer": "The Creators page features a banner with 'Creators' title and displays a curated selection of content creators available on Fliqz World. The page includes filtering options by category and sorting functionality to help users discover creators based on their interests",
+        "url": "https://beta.fliqzworld.com/creator"
+    },
+    {
+        "id": 162,
+        "label": "Clips Page",
+        "answer": "The Clips page is a video content discovery platform featuring trending and popular video clips. The page includes a banner with 'Clips' title and organizes videos into two main sections: Trending Videos and Popular Videos with category filtering options",
+        "url": "https://beta.fliqzworld.com/clips"
+    },
+    {
+        "id": 163,
+        "label": "How It Works Page",
+        "answer": "The How It Works page explains the Fliqz World platform from both fan and creator perspectives. It features a banner with 'How It Works' title and provides detailed information about the platform's functionality, features, and user experience for both fans and creators",
+        "url": "https://beta.fliqzworld.com/howitworks"
+    },
+    {
+        "id": 164,
+        "label": "Shop Page",
+        "answer": "The Shop page features a merchandise store with various products available for purchase. The page includes filtering options, product listings with images and prices, and navigation controls for browsing through the product catalog",
+        "url": "https://beta.fliqzworld.com/fansshoppage"
     }
 ]
